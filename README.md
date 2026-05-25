@@ -12,3 +12,5 @@ first assignment for IS218
 - Used to push a given branch to a given remote repository. Common useage with github is "git push origin \<current branch\>"
 5. cd \<new directory>
 - Used to change the current active directory to a new one.
+6. mv \<old path\> \<new path\>
+- Used to move a file from one path to another. Can also be used to rename paths.
