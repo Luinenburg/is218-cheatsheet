@@ -14,3 +14,5 @@ first assignment for IS218
 - Used to change the current active directory to a new one.
 6. mv \<old path\> \<new path\>
 - Used to move a file from one path to another. Can also be used to rename paths.
+7. ls
+- Used to list the files in a directory
