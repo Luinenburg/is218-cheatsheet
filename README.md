@@ -10,3 +10,5 @@ first assignment for IS218
 - Used to add a file to currently staged changes. Can use a . in place of the file name to include everything in the current directory.
 4. git push \<remote\> \<branch\>
 - Used to push a given branch to a given remote repository. Common useage with github is "git push origin \<current branch\>"
+5. cd \<new directory>
+- Used to change the current active directory to a new one.
