@@ -16,3 +16,5 @@ first assignment for IS218
 - Used to move a file from one path to another. Can also be used to rename paths.
 7. ls
 - Used to list the files in a directory
+8. vi <filename>
+- Opens the provided file into the Vi text editor
