@@ -22,3 +22,5 @@ first assignment for IS218
 - Checks the differences between two branches or two commits. Can also look at differences between staged commits with --staged
 10. cp \<existing file\> \<new path\>
 - Copies a file to a given path. Can copy directories with -r
+11. rmdir \<directory\>
+- Removes empty directories
