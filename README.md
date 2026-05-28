@@ -26,3 +26,5 @@ first assignment for IS218
 - Removes empty directories
 12. cat \<file\>
 - Outputs the contents of a file
+13. less \<file\>
+- Outputs the contents of a file and allows you to search and scroll through the file
