@@ -30,3 +30,5 @@ first assignment for IS218
 - Outputs the contents of a file and allows you to search and scroll through the file
 14. tail \<file\>
 - Outputs the last contents of a file. Useful for monitoring logs
+15. watch \<command\>
+- "watches" the output of a command. Useful in combination with tail for monitoring changes in logs.
