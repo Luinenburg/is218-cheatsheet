@@ -24,3 +24,5 @@ first assignment for IS218
 - Copies a file to a given path. Can copy directories with -r
 11. rmdir \<directory\>
 - Removes empty directories
+12. cat \<file\>
+- Outputs the contents of a file
